@@ -1,0 +1,35 @@
+_repo: The-rasp_72462
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, Philip
+    birthdate: 1900
+    deathdate: 1980
+    gutenberg_agent_id: '56692'
+    url: http://www.gutenberg.org/2009/agents/56692
+    wikipedia:
+    - https://www.gutenberg.org/ebooks/author/9092
+    - https://en.wikipedia.org/wiki/Philip_MacDonald
+description: ''
+gutenberg_issued: '2023-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72462'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/101864460
+pgterms:marc905: 20231219172507macdonald
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bThe Dial Press, $c1925, reprint 1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Gethryn, Anthony (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The rasp
+url: http://www.gutenberg.org/ebooks/72462
