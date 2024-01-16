@@ -1,5 +1,8 @@
 _repo: The-rasp_72462
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72462-h/images/cover.png
 creator:
   author:
     agent_name: MacDonald, Philip
@@ -11,6 +14,8 @@ creator:
     - https://www.gutenberg.org/ebooks/author/9092
     - https://en.wikipedia.org/wiki/Philip_MacDonald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72462#The-rasp
 gutenberg_issued: '2023-12-21'
 gutenberg_type: Text
 identifiers:
